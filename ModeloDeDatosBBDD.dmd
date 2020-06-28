@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloDeDatosBBDD" id="A551A9F9-B2AA-FEE9-A00A-675545EBE326" version="3.5">
+<createdBy>Ideapad 520</createdBy>
+<createdTime>2020-06-25 01:19:34 UTC</createdTime>
+<ownerDesignName>ModeloDeDatosBBDD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A551A9F9-B2AA-FEE9-A00A-675545EBE326</designId>
+</OSDM_Design>
